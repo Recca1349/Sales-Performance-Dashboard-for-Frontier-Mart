@@ -99,3 +99,25 @@ Key elements of the dashboard include:
 - A total of 4,000 orders were processed, resulting in 103.2K units sold, generating $9.8M in total sales and $1.6M in total profit.
 - The average profit margin remained healthy across most products and categories.
 
+## Recommendations
+
+**Scale Inventory for Best-Selling Products :**
+Since products like Sparkle Dish Gel and KidSteps Sneakers generated the highest sales and profits, prioritize inventory and marketing for these items to maximize returns.
+
+**Strengthen December Marketing Campaigns :**
+December had the highest sales volume. Capitalize on this by launching seasonal promotions, bundling offers, and loyalty programs ahead of the holiday peak.
+
+**Promote the Household & Cleaning Category :**
+With $2.3M in sales, this was the top-performing category. Focus promotional efforts here, while also identifying underperforming categories for repositioning.
+
+**Encourage Online Payments & Wholesaler Sales :**
+Since Online payments account for 51.7% of transactions and Wholesalers bring in the most revenue, improve payment convenience and strengthen B2B partnerships.
+
+**Monitor Low-Performing Months :**
+Months like May and February showed lower sales. Investigate causes (e.g., seasonality, stock issues) and introduce targeted promotions or product launches during these periods.
+
+**Leverage Data for Demand Forecasting :**
+Use monthly trends and product performance to create accurate demand forecasts—minimizing overstock or stockouts and improving supply chain efficiency.
+
+**Optimize Product Mix :**
+Review products like ClearWash Gel, which had high sales but relatively low profit margins. Consider price adjustments, bundling, or marketing strategies to improve profitability.
