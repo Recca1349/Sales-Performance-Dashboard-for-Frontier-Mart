@@ -3,7 +3,7 @@
 
 ![mart](https://github.com/user-attachments/assets/42cf4923-b882-4785-a325-1fe4e779b610)
 
-**Disclaimer**⚠️: All datasets, slides and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual mention. All info are dummy and design to demonstrate my capabilities of using PowerBI to perform advance analysis on healthcare dataset.
+**Disclaimer**⚠️: All datasets, slides and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual mention. All info are dummy and design to demonstrate my capabilities of using PowerBI to perform advance analysis on retail businesses' datasets.
 
 ## Description
 This project analyzes over $9 million in sales data from Frontier Mart, a leading retail brand, using Microsoft Excel. The goal was to uncover trends in monthly sales, identify best-selling products, assess customer purchasing behavior, and evaluate profit margins across categories and sales channels. The project features interactive dashboards created with pivot tables, charts, and Excel formulas to support data-driven decisions in retail strategy, inventory management, and customer engagement.
@@ -52,20 +52,37 @@ The Frontier Mart dashboard showcases vital key perfrmance metrics that summariz
 
 These KPIs offer a high-level view of sales volume, profitability, and customer activity, helping stakeholders track performance and identify growth opportunities.
 
+<img width="1267" height="159" alt="kpi frontier shot" src="https://github.com/user-attachments/assets/c40c364f-1da8-4048-8e2d-aaa6d12b24de" />
+
 #### **Monthly Sales Trend**
 Displays total sales across all 12 months, helping identify seasonal peaks. Insight: December recorded the highest sales, reaching $972.9K.
+
+<img width="681" height="253" alt="sales trend shot frontier" src="https://github.com/user-attachments/assets/3283dbbe-1d01-434a-8eb9-a9c6f3be263b" />
+
 
 #### **Top Performing Products**
 A bar chart showing products with the highest sales and profits. Insight: Sparkle Dish Gel led with $470.4K in sales and $134.4K in profit.
 
+<img width="681" height="253" alt="sales trend shot frontier" src="https://github.com/user-attachments/assets/891231f0-d6e5-43d1-8036-e938e52d9e1d" />
+
+
 #### **Sales by Payment Mode**
 A pie chart that compares the share of sales made via cash vs. online payments. Insight: Online payments dominate with 51.7% of total transactions.
+
+<img width="336" height="230" alt="sales by payment" src="https://github.com/user-attachments/assets/01e4c8c7-e8ac-4888-8b79-4e61d521c20c" />
+
 
 #### **Sales by Type**
 Visualizes performance by sales type (Wholesaler, Online, Direct Sales). Insight: Wholesaler sales contributed the most, with $3.4M in revenue.
 
+<img width="467" height="232" alt="sales by type shot" src="https://github.com/user-attachments/assets/85c9cb86-9ad8-4c8a-87e5-c2275b3a11b0" />
+
+
 #### **Sales by Category**
 Highlights revenue by product category. Insight: Household & Cleaning emerged as the top category with $2.3M in sales.
+
+<img width="433" height="228" alt="sales by cat" src="https://github.com/user-attachments/assets/f47c9115-80fa-4e82-9fd7-3dc6a8c3358e" />
+
 
 ## Dashboard Review
 
@@ -75,6 +92,10 @@ Key elements of the dashboard include:
 - KPI Summary Cards for Total Orders (4.0K), Total Sales ($9.8M), Total Profit ($1.6M), and Quantity Sold (103.2K units).
 - Interactive Charts to analyze monthly sales trends, top-performing products, category performance, payment modes, and sales types.
 - User-Friendly Layout with clean visuals and labeled insights to aid quick decision-making by business stakeholders.
+
+<img width="1505" height="777" alt="Frontier Dashboard shot" src="https://github.com/user-attachments/assets/4051d7a2-a807-4811-9b59-a38c4dfcde6d" />
+
+
 
 ## Insights
 
