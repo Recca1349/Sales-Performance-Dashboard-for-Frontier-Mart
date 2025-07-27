@@ -3,7 +3,22 @@
 
 ![mart](https://github.com/user-attachments/assets/42cf4923-b882-4785-a325-1fe4e779b610)
 
-**Disclaimer**⚠️: All datasets, slides and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual mention. All info are dummy and design to demonstrate my capabilities of using PowerBI to perform advance analysis on retail businesses' datasets.
+**Disclaimer**⚠️: All datasets, reports, and presentation slides used in this project are entirely fictional. They do not contain any real proprietary, confidential, or sensitive information from any company, institution, or individual mentioned. The data is simulated solely for educational and demonstration purposes, intended to showcase my proficiency in using advanced Microsoft Excel for retail business analysis.
+
+## 📑 Table of Contents
+
+- [Description](#description)
+- [Business Introduction](#business-introduction)
+- [Problem Statement](#problem-statement)
+- [Aim of the Project](#aim-of-the-project)
+- [Methodologies Used](#methodologies-used)
+- [Data Analysis](#data-analysis)
+- [KPIs)](kpis)
+- [Visualizations](#visualizations)
+- [Dashboard Overview](#dashboard-overview)
+- [Insights](#insights)
+- [Recommendations](#recommendations)
+- [Thank You](#thank-you)
 
 ## Description
 This project analyzes over $9 million in sales data from Frontier Mart, a leading retail brand, using Microsoft Excel. The goal was to uncover trends in monthly sales, identify best-selling products, assess customer purchasing behavior, and evaluate profit margins across categories and sales channels. The project features interactive dashboards created with pivot tables, charts, and Excel formulas to support data-driven decisions in retail strategy, inventory management, and customer engagement.
@@ -45,14 +60,16 @@ The aim of this project is to analyze Frontier Mart’s sales data using Microso
 The Frontier Mart dashboard showcases vital key perfrmance metrics that summarize the company’s annual performance and five key visuals that provide actionable insights into sales performance and customer behavior.
 
 #### KPIs
+
+The following KPIs offer a high-level view of sales volume, profitability, and customer activity, helping stakeholders track performance and identify growth opportunities.
    - Total Orders: 4.0K
    - Total Sales: $9.8M
    - Total Profit: $1.6M
    - Quantity Sold: 103.2K units
 
-These KPIs offer a high-level view of sales volume, profitability, and customer activity, helping stakeholders track performance and identify growth opportunities.
-
 <img width="1267" height="159" alt="kpi frontier shot" src="https://github.com/user-attachments/assets/c40c364f-1da8-4048-8e2d-aaa6d12b24de" />
+
+### Visualizations
 
 #### **Monthly Sales Trend**
 Displays total sales across all 12 months, helping identify seasonal peaks. Insight: December recorded the highest sales, reaching $972.9K.
@@ -84,7 +101,7 @@ Highlights revenue by product category. Insight: Household & Cleaning emerged as
 <img width="433" height="228" alt="sales by cat" src="https://github.com/user-attachments/assets/f47c9115-80fa-4e82-9fd7-3dc6a8c3358e" />
 
 
-## Dashboard Review
+## Dashboard Overview
 
 The Frontier Mart Dashboard is a dynamic Excel-based tool designed to visualize and interpret key business metrics across sales, profit, and customer behavior. Built using pivot tables, slicers, charts, and Excel functions, the dashboard offers a comprehensive overview of the company’s performance over a 12-month period.
 
