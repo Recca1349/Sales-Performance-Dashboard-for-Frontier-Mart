@@ -121,3 +121,8 @@ Use monthly trends and product performance to create accurate demand forecastsâ€
 
 **Optimize Product Mix :**
 Review products like ClearWash Gel, which had high sales but relatively low profit margins. Consider price adjustments, bundling, or marketing strategies to improve profitability.
+
+## Thank You
+For more information, you can contact me 
+<img width="1010" height="251" alt="Contact shot" src="https://github.com/user-attachments/assets/230c774a-32bd-4fc5-b2f0-8401855ca332" />
+
