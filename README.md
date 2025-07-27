@@ -52,5 +52,20 @@ The Frontier Mart dashboard showcases vital key perfrmance metrics that summariz
 
 These KPIs offer a high-level view of sales volume, profitability, and customer activity, helping stakeholders track performance and identify growth opportunities.
 
+**The Frontier Mart dashboard features five key visuals that provide actionable insights into sales performance and customer behavior:**
 
+📈 Monthly Sales Trend
+Displays total sales across all 12 months, helping identify seasonal peaks. Insight: December recorded the highest sales, reaching $972.9K.
+
+🛒 Top Performing Products
+A bar chart showing products with the highest sales and profits. Insight: Sparkle Dish Gel led with $470.4K in sales and $134.4K in profit.
+
+💳 Sales by Payment Mode
+A pie chart that compares the share of sales made via cash vs. online payments. Insight: Online payments dominate with 51.7% of total transactions.
+
+🏷️ Sales by Type
+Visualizes performance by sales type (Wholesaler, Online, Direct Sales). Insight: Wholesaler sales contributed the most, with $3.4M in revenue.
+
+🧼 Sales by Category
+Highlights revenue by product category. Insight: Household & Cleaning emerged as the top category with $2.3M in sales.
 
