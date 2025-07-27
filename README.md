@@ -42,9 +42,9 @@ The aim of this project is to analyze Frontier Mart’s sales data using Microso
 
 ## Data Analysis
 
-### KPIs
+The Frontier Mart dashboard showcases vital key perfrmance metrics that summarize the company’s annual performance and five key visuals that provide actionable insights into sales performance and customer behavior.
 
-The Frontier Mart dashboard showcases vital key perfrmance metrics that summarize the company’s annual performance:
+#### KPIs
    - Total Orders: 4.0K
    - Total Sales: $9.8M
    - Total Profit: $1.6M
@@ -52,20 +52,50 @@ The Frontier Mart dashboard showcases vital key perfrmance metrics that summariz
 
 These KPIs offer a high-level view of sales volume, profitability, and customer activity, helping stakeholders track performance and identify growth opportunities.
 
-**The Frontier Mart dashboard features five key visuals that provide actionable insights into sales performance and customer behavior:**
-
-📈 Monthly Sales Trend
+#### **Monthly Sales Trend**
 Displays total sales across all 12 months, helping identify seasonal peaks. Insight: December recorded the highest sales, reaching $972.9K.
 
-🛒 Top Performing Products
+#### **Top Performing Products**
 A bar chart showing products with the highest sales and profits. Insight: Sparkle Dish Gel led with $470.4K in sales and $134.4K in profit.
 
-💳 Sales by Payment Mode
+#### **Sales by Payment Mode**
 A pie chart that compares the share of sales made via cash vs. online payments. Insight: Online payments dominate with 51.7% of total transactions.
 
-🏷️ Sales by Type
+#### **Sales by Type**
 Visualizes performance by sales type (Wholesaler, Online, Direct Sales). Insight: Wholesaler sales contributed the most, with $3.4M in revenue.
 
-🧼 Sales by Category
+#### **Sales by Category**
 Highlights revenue by product category. Insight: Household & Cleaning emerged as the top category with $2.3M in sales.
+
+## Dashboard Review
+
+The Frontier Mart Dashboard is a dynamic Excel-based tool designed to visualize and interpret key business metrics across sales, profit, and customer behavior. Built using pivot tables, slicers, charts, and Excel functions, the dashboard offers a comprehensive overview of the company’s performance over a 12-month period.
+
+Key elements of the dashboard include:
+- KPI Summary Cards for Total Orders (4.0K), Total Sales ($9.8M), Total Profit ($1.6M), and Quantity Sold (103.2K units).
+- Interactive Charts to analyze monthly sales trends, top-performing products, category performance, payment modes, and sales types.
+- User-Friendly Layout with clean visuals and labeled insights to aid quick decision-making by business stakeholders.
+
+## Insights
+
+#### **Sales Performance Insights**
+- Total Sales amounted to $9.8 million, with a total profit of $1.6 million over the year.
+- December recorded the highest monthly sales at $972.9K, indicating peak customer activity during the holiday season.
+- Monthly sales trend shows consistent growth, with notable dips in May and February.
+
+#### **Product Insights**
+- The best-selling product was Sparkle Dish Gel, generating $470.4K in sales and $134.4K in profit.
+- Other high-performing products include KidSteps Sneakers and FreshMist Spray, signaling a strong market for household and personal care items.
+
+#### **Category Performance**
+- Household & Cleaning was the top product category, contributing $2.3M to total sales.
+- Other well-performing categories included Electronics & Gadgets and Health & Personal Care, each exceeding $1.8M in sales.
+
+#### **Customer Behavior Insights**
+- Online payment was the most preferred mode, accounting for 51.7% of total sales.
+- Wholesaler sales type brought in the highest revenue share at 35%, followed closely by Direct and Online sales, each with 33%.
+
+#### **Operational KPIs**
+- A total of 4,000 orders were processed, resulting in 103.2K units sold, generating $9.8M in total sales and $1.6M in total profit.
+- The average profit margin remained healthy across most products and categories.
 
