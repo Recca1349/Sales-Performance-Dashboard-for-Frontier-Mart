@@ -1,1 +1,2 @@
-# Sales-Performance-Dashboard-for-Frontier-Mart
+# Retail Data Insights with Excel – Frontier Mart Case Study
+###
